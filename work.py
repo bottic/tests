@@ -1,4 +1,6 @@
 print('metr')
+print('')
+print('123')
 print('analit')
 print('')
 print('Www')
