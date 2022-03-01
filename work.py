@@ -1,3 +1,3 @@
 print('metr')
-print('analit')
 print('')
+print('123')
